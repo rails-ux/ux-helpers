@@ -14,3 +14,14 @@ First draft of desired componets:
   - Create / Replace / Update
   - Destroy
   - Actions
+- Account
+  - Subscribe
+  - Subscription
+- Staff
+  - Subscriptions
+  - Billing
+  - Tasks
+  
+New app seed project
+
+Used gems
