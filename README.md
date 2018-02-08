@@ -7,11 +7,10 @@ First draft of desired componets:
   - Menu
   - Sections
   - Global Search
-- Entity Lists
-  - Grids
+- CRUD
+  - List
   - Search
-  - Actions
-- Entity Detais
   - Show
-  - Edit
+  - Create / Replace / Update
+  - Destroy
   - Actions
