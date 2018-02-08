@@ -1,6 +1,8 @@
 # ux-helpers
 Helpers to easily create a standard and user friendly interface in your rails apps
-desired componets are:
+
+First draft of desired componets:
+
 - Navigation
   - Menu
   - Sections
